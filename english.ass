@@ -1,0 +1,257 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.16,0:00:15.07,Default,,0,0,0,,{\fad(500,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(288,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))}FEBRUARY 18, 2096
+Dialogue: 0,0:00:27.70,0:00:29.20,Default,,0,0,0,,Lina...
+Dialogue: 0,0:00:31.04,0:00:32.29,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:00:34.24,0:00:36.24,Default,,0,0,0,,Did you hear?
+Dialogue: 0,0:00:36.24,0:00:37.58,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:00:37.58,0:00:40.12,Default,,0,0,0,,I'm not going to be your friend.
+Dialogue: 0,0:00:40.12,0:00:44.62,Default,,0,0,0,,I know. We live\Nin different worlds, after all.
+Dialogue: 0,0:02:37.08,0:02:39.45,Default,,0,0,0,,Tatsuya, please wait.
+Dialogue: 0,0:02:39.45,0:02:46.08,Default,,0,0,0,,I can see a parasite aura 30 degrees\Nto the right of the direction you're moving.
+Dialogue: 0,0:02:48.62,0:02:50.58,Default,,0,0,0,,I see them, too!
+Dialogue: 0,0:02:50.58,0:02:53.62,Default,,0,0,0,,Three of them. Two men, one woman.
+Dialogue: 0,0:02:54.95,0:02:59.62,Default,,0,0,0,,A girl in a mask is approaching the parasites\Nfrom the opposite direction!
+Dialogue: 0,0:03:26.41,0:03:30.16,Default,,0,0,0,,I came to Japan as one\Nof the strongest magicians in the world.
+Dialogue: 0,0:03:33.70,0:03:36.91,Default,,0,0,0,,But my one-on-one with Miyuki\Nended in my defeat.
+Dialogue: 0,0:03:47.29,0:03:49.29,Default,,0,0,0,,And then, I suffered...
+Dialogue: 0,0:03:49.29,0:03:52.79,Default,,0,0,0,,a total defeat to Tatsuya.
+Dialogue: 0,0:03:56.83,0:03:58.41,Default,,0,0,0,,But at least...
+Dialogue: 0,0:03:58.41,0:04:00.95,Default,,0,0,0,,At least, I'll carry out the role of Sirius...
+Dialogue: 0,0:04:00.95,0:04:03.37,Default,,0,0,0,,the Stars commander!
+Dialogue: 0,0:04:12.95,0:04:14.41,Default,,0,0,0,,Leave this to me!
+Dialogue: 0,0:04:37.45,0:04:38.91,Default,,0,0,0,,Mikihiko!
+Dialogue: 0,0:04:38.91,0:04:40.12,Default,,0,0,0,,Roger!
+Dialogue: 0,0:04:48.58,0:04:49.91,Default,,0,0,0,,Let's see.
+Dialogue: 0,0:04:53.08,0:04:54.99,Default,,0,0,0,,That makes one!
+Dialogue: 0,0:05:05.49,0:05:07.24,Default,,0,0,0,,One got away! Mizuki...
+Dialogue: 0,0:05:07.24,0:05:08.29,Default,,0,0,0,,Can you see it?
+Dialogue: 0,0:05:08.29,0:05:12.79,Default,,0,0,0,,I'm sorry, but I can't make out\Nindividual movements from here.
+Dialogue: 0,0:05:12.79,0:05:16.99,Default,,0,0,0,,Oh. Sorry, that's okay. Don't worry about it.
+Dialogue: 0,0:05:16.99,0:05:19.41,Default,,0,0,0,,Angie Sirius!
+Dialogue: 0,0:05:19.41,0:05:20.70,Default,,0,0,0,,What?
+Dialogue: 0,0:05:20.70,0:05:24.16,Default,,0,0,0,,Could you not kill them\Nbefore we finish sealing them?
+Dialogue: 0,0:05:24.16,0:05:26.24,Default,,0,0,0,,The cleanup is going to be a pain.
+Dialogue: 0,0:05:29.04,0:05:33.49,Default,,0,0,0,,Nothing to do with me.\NI just need to deal with the deserters.
+Dialogue: 0,0:05:33.49,0:05:35.62,Default,,0,0,0,,Sirius's mission?
+Dialogue: 0,0:05:35.62,0:05:40.29,Default,,0,0,0,,What I mean is, I want you to do that\Nafter we seal the parasites' main bodies.
+Dialogue: 0,0:05:40.29,0:05:42.70,Default,,0,0,0,,One of them already got away.
+Dialogue: 0,0:05:42.70,0:05:45.58,Default,,0,0,0,,That isn't part of my mission.
+Dialogue: 0,0:05:45.58,0:05:53.24,Default,,0,0,0,,I only need to complete my mission\Nand do the Sirius's duty.
+Dialogue: 0,0:05:53.24,0:05:54.79,Default,,0,0,0,,That was Lina, right?
+Dialogue: 0,0:05:54.79,0:05:57.08,Default,,0,0,0,,She looks like a completely different person.
+Dialogue: 0,0:05:57.08,0:05:58.83,Default,,0,0,0,,Why would you think it was her?
+Dialogue: 0,0:05:58.83,0:06:00.62,Default,,0,0,0,,Her gestures, I guess.
+Dialogue: 0,0:06:00.62,0:06:05.16,Default,,0,0,0,,The way she moves her arms, legs and head...\NAnd you can tell a lot from the eyes.
+Dialogue: 0,0:06:05.16,0:06:07.12,Default,,0,0,0,,I'm impressed.
+Dialogue: 0,0:06:07.12,0:06:09.70,Default,,0,0,0,,I'm sure you know this,\Nbut this is a secret, too.
+Dialogue: 0,0:06:09.70,0:06:10.99,Default,,0,0,0,,Okay.
+Dialogue: 0,0:06:10.99,0:06:15.37,Default,,0,0,0,,And I'd like to say\Nthe same thing I said to her to you.
+Dialogue: 0,0:06:15.37,0:06:16.99,Default,,0,0,0,,Not to kill them?
+Dialogue: 0,0:06:16.99,0:06:22.99,Default,,0,0,0,,Exactly. As long as the host body doesn't die,\Nthe parasite can't get out of it.
+Dialogue: 0,0:06:22.99,0:06:25.95,Default,,0,0,0,,Nonlethally disabling them\Nis more certain to do the trick.
+Dialogue: 0,0:06:25.95,0:06:30.16,Default,,0,0,0,,Sorry. I just can't do that, Tatsuya.
+Dialogue: 0,0:06:30.16,0:06:32.74,Default,,0,0,0,,I've been prepared\Nfor my opponent to kill me
+Dialogue: 0,0:06:32.74,0:06:35.45,Default,,0,0,0,,ever since I decided\NI'd kill others with my sword.
+Dialogue: 0,0:06:35.45,0:06:39.83,Default,,0,0,0,,So, when I think about me being killed...
+Dialogue: 0,0:06:39.83,0:06:43.58,Default,,0,0,0,,Well, I can't leave them alive on purpose\Nand draw out their pain.
+Dialogue: 0,0:06:45.16,0:06:47.16,Default,,0,0,0,,Well, I can't argue with that.
+Dialogue: 0,0:06:47.16,0:06:49.29,Default,,0,0,0,,I guess I'll just have\Nto put in more work, then.
+Dialogue: 0,0:06:52.66,0:06:54.37,Default,,0,0,0,,You're late!
+Dialogue: 0,0:06:54.37,0:06:57.37,Default,,0,0,0,,Shut up! We're doing the best we can--
+Dialogue: 0,0:07:05.74,0:07:07.37,Default,,0,0,0,,Brother...
+Dialogue: 0,0:07:07.37,0:07:08.83,Default,,0,0,0,,They are...
+Dialogue: 0,0:07:08.83,0:07:10.99,Default,,0,0,0,,the Batto-tai.
+Dialogue: 0,0:07:10.99,0:07:14.24,Default,,0,0,0,,A commando infantry platoon\Nbelonging to the JGDF's First Division
+Dialogue: 0,0:07:14.24,0:07:19.24,Default,,0,0,0,,and comprised solely of magicians\Nspecializing in hand-to-hand combat.
+Dialogue: 0,0:07:19.24,0:07:23.20,Default,,0,0,0,,But why would this platoon that's under the\NKudou Family's influence be mobilized tonight?
+Dialogue: 0,0:07:24.29,0:07:27.58,Default,,0,0,0,,Panzer!
+Dialogue: 0,0:07:27.58,0:07:29.37,Default,,0,0,0,,We'll take these guys!
+Dialogue: 0,0:07:29.37,0:07:32.49,Default,,0,0,0,,Yeah. You and Miyuki\Ncan go on ahead, Tatsuya.
+Dialogue: 0,0:07:32.49,0:07:34.87,Default,,0,0,0,,Okay. I'll leave it to you, then.
+Dialogue: 0,0:07:34.87,0:07:36.12,Default,,0,0,0,,Let's go, Miyuki.
+Dialogue: 0,0:07:36.12,0:07:37.70,Default,,0,0,0,,Right, Brother.
+Dialogue: 0,0:07:41.08,0:07:43.20,Default,,0,0,0,,All righty.
+Dialogue: 0,0:07:43.20,0:07:46.95,Default,,0,0,0,,Let's take these guys out fast.\NThen, we'll catch up with them.
+Dialogue: 0,0:07:46.95,0:07:50.08,Default,,0,0,0,,Right. This shouldn't take long.
+Dialogue: 0,0:07:54.58,0:07:56.29,Default,,0,0,0,,Brother...
+Dialogue: 0,0:07:56.29,0:07:57.49,Default,,0,0,0,,What happened here?
+Dialogue: 0,0:08:06.54,0:08:08.49,Default,,0,0,0,,Lina, get back!
+Dialogue: 0,0:08:08.49,0:08:10.54,Default,,0,0,0,,Nobody asked you!
+Dialogue: 0,0:08:20.08,0:08:24.29,Default,,0,0,0,,Parasites can literally use magic\Njust by thinking it.
+Dialogue: 0,0:08:24.29,0:08:27.79,Default,,0,0,0,,Lina's greatest weapon\Nis her spell activation speed.
+Dialogue: 0,0:08:27.79,0:08:32.33,Default,,0,0,0,,But even with her overwhelming speed,\Nup against six parasites,
+Dialogue: 0,0:08:32.33,0:08:36.66,Default,,0,0,0,,both of us are forced\Nto prioritize defense. So...
+Dialogue: 0,0:08:36.66,0:08:37.66,Default,,0,0,0,,Miyuki!
+Dialogue: 0,0:08:37.66,0:08:39.33,Default,,0,0,0,,Yes, Brother!
+Dialogue: 0,0:09:11.83,0:09:12.91,Default,,0,0,0,,You saved me there.
+Dialogue: 0,0:09:12.91,0:09:14.33,Default,,0,0,0,,You're welcome.
+Dialogue: 0,0:09:14.33,0:09:16.20,Default,,0,0,0,,Erika, Leo, be careful!
+Dialogue: 0,0:09:16.20,0:09:19.16,Default,,0,0,0,,The parasite's main body is over there!
+Dialogue: 0,0:09:19.16,0:09:20.54,Default,,0,0,0,,Doton?
+Dialogue: 0,0:09:22.33,0:09:25.83,Default,,0,0,0,,Schild!
+Dialogue: 0,0:09:25.83,0:09:28.12,Default,,0,0,0,,Leo, that's a parasite!
+Dialogue: 0,0:09:32.04,0:09:33.45,Default,,0,0,0,,Oh, crap!
+Dialogue: 0,0:09:37.20,0:09:38.45,Default,,0,0,0,,Pixie!
+Dialogue: 0,0:09:53.37,0:09:55.41,Default,,0,0,0,,Pixie, get over here.
+Dialogue: 0,0:09:55.41,0:09:56.24,Default,,0,0,0,,At once, sir.
+Dialogue: 0,0:09:56.24,0:09:58.45,Default,,0,0,0,,Honoka, you back up Pixie.
+Dialogue: 0,0:09:58.45,0:09:59.83,Default,,0,0,0,,Right!
+Dialogue: 0,0:09:59.83,0:10:01.99,Default,,0,0,0,,Erika, Leo, stay where you are.
+Dialogue: 0,0:10:01.99,0:10:04.24,Default,,0,0,0,,Tell the others there, too.
+Dialogue: 0,0:10:04.24,0:10:05.66,Default,,0,0,0,,Huh? Okay.
+Dialogue: 0,0:10:05.66,0:10:07.08,Default,,0,0,0,,Right.
+Dialogue: 0,0:10:12.70,0:10:15.62,Default,,0,0,0,,I agreed without skipping a beat...
+Dialogue: 0,0:10:15.62,0:10:18.79,Default,,0,0,0,,but I have no idea\Nwhat "backing up" means here.
+Dialogue: 0,0:10:24.91,0:10:28.37,Default,,0,0,0,,I have to get a good read\Non her situation first.
+Dialogue: 0,0:10:38.41,0:10:40.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC X
+Dialogue: 0,0:10:43.66,0:10:45.16,Default,,0,0,0,,Found it.
+Dialogue: 0,0:10:45.54,0:10:47.33,Default,,0,0,0,,Found it.
+Dialogue: 0,0:11:19.29,0:11:22.24,Default,,0,0,0,,Return to us!
+Dialogue: 0,0:11:22.24,0:11:26.08,Default,,0,0,0,,I'm not part of you!
+Dialogue: 0,0:11:26.08,0:11:28.20,Default,,0,0,0,,I...
+Dialogue: 0,0:11:28.20,0:11:30.54,Default,,0,0,0,,belong to him!
+Dialogue: 0,0:11:30.54,0:11:33.33,Default,,0,0,0,,Then, take this!
+Dialogue: 0,0:11:37.66,0:11:39.74,Default,,0,0,0,,What is that?
+Dialogue: 0,0:11:39.74,0:11:43.24,Default,,0,0,0,,There's a giant power\Npressing down on that doll.
+Dialogue: 0,0:11:43.24,0:11:45.70,Default,,0,0,0,,Tatsuya, what on earth is that?
+Dialogue: 0,0:11:45.70,0:11:50.08,Default,,0,0,0,,The result of you not listening\Nto what my brother told you.
+Dialogue: 0,0:11:50.08,0:11:54.33,Default,,0,0,0,,You went around killing every parasite\Nhost body in sight without a second thought.
+Dialogue: 0,0:11:54.33,0:11:57.33,Default,,0,0,0,,Now they're free and on a rampage.
+Dialogue: 0,0:11:57.33,0:12:01.95,Default,,0,0,0,,Lina, how do you plan on making amends\Nfor this mismanagement?
+Dialogue: 0,0:12:01.95,0:12:03.95,Default,,0,0,0,,What do you mean "mismanagement"?
+Dialogue: 0,0:12:03.95,0:12:06.49,Default,,0,0,0,,I was just carrying out my mission!
+Dialogue: 0,0:12:06.49,0:12:10.08,Default,,0,0,0,,Then, the least you could do\Nis clean up after yourself.
+Dialogue: 0,0:12:10.08,0:12:12.41,Default,,0,0,0,,Can you do that?
+Dialogue: 0,0:12:12.41,0:12:18.29,Default,,0,0,0,,Even my brother had to take\Na passive method by sealing them.
+Dialogue: 0,0:12:18.29,0:12:19.91,Default,,0,0,0,,Just watch! I'll do it!
+Dialogue: 0,0:12:19.91,0:12:20.67,Default,,0,0,0,,Wait, Lina!
+Dialogue: 0,0:12:20.67,0:12:23.20,Default,,0,0,0,,Shut up! You be quiet, Tatsuya!
+Dialogue: 0,0:12:23.20,0:12:27.33,Default,,0,0,0,,I need to finish\Nthis mission successfully!
+Dialogue: 0,0:12:27.33,0:12:28.99,Default,,0,0,0,,If I don't...
+Dialogue: 0,0:12:28.99,0:12:33.74,Default,,0,0,0,,then what am I even doing here?
+Dialogue: 0,0:12:38.20,0:12:39.87,Default,,0,0,0,,Then, a lightning attack!
+Dialogue: 0,0:12:42.29,0:12:44.33,Default,,0,0,0,,It's not working!
+Dialogue: 0,0:12:44.33,0:12:46.45,Default,,0,0,0,,How about compressed air bullets?
+Dialogue: 0,0:12:46.45,0:12:47.91,Default,,0,0,0,,Ultrasonic waves!
+Dialogue: 0,0:12:47.91,0:12:49.83,Default,,0,0,0,,Gravity shock wave!
+Dialogue: 0,0:12:59.83,0:13:01.45,Default,,0,0,0,,It's coming, Lina!
+Dialogue: 0,0:13:11.04,0:13:12.29,Default,,0,0,0,,Brother...
+Dialogue: 0,0:13:16.54,0:13:20.29,Default,,0,0,0,,Miyuki may have the sense of touch\Nto detect spirit information bodies,
+Dialogue: 0,0:13:20.29,0:13:23.29,Default,,0,0,0,,but not the sense of vision\Nto get a bird's-eye view.
+Dialogue: 0,0:13:23.29,0:13:27.04,Default,,0,0,0,,Because of that, the area of interference\Nis necessarily slipping out of position.
+Dialogue: 0,0:13:30.74,0:13:34.08,Default,,0,0,0,,It's extremely taxing to think\Nabout holding out in a situation
+Dialogue: 0,0:13:34.08,0:13:38.49,Default,,0,0,0,,you don't know how long\Nyou'll have to hold out for. At this rate...
+Dialogue: 0,0:13:38.49,0:13:41.24,Default,,0,0,0,,the two might give in.
+Dialogue: 0,0:13:41.24,0:13:43.16,Default,,0,0,0,,Physical attacks are out of the question.
+Dialogue: 0,0:13:43.16,0:13:47.33,Default,,0,0,0,,If we have any chance,\Nit's magic that affects the mind.
+Dialogue: 0,0:13:48.62,0:13:50.99,Default,,0,0,0,,It's the only way left.
+Dialogue: 0,0:13:50.99,0:13:54.29,Default,,0,0,0,,Mikihiko, can you see\Nwhat's happening here?
+Dialogue: 0,0:13:54.29,0:13:59.37,Default,,0,0,0,,Yeah. I'm in the middle of really\Nquickly making a sealing circle...
+Dialogue: 0,0:13:59.37,0:14:01.29,Default,,0,0,0,,so wait just a little longer.
+Dialogue: 0,0:14:01.29,0:14:05.91,Default,,0,0,0,,How likely is it that the sealing circle\Nwill suppress all this?
+Dialogue: 0,0:14:05.91,0:14:09.66,Default,,0,0,0,,To be honest,\Nprobably less than fifty-fifty.
+Dialogue: 0,0:14:09.66,0:14:13.87,Default,,0,0,0,,Mikihiko, it only needs to be for a moment.
+Dialogue: 0,0:14:13.87,0:14:16.33,Default,,0,0,0,,Please just suppress it for ten seconds.
+Dialogue: 0,0:14:21.91,0:14:23.70,Default,,0,0,0,,All right.
+Dialogue: 0,0:14:23.70,0:14:27.33,Default,,0,0,0,,I'll suppress that thing for ten seconds\Nno matter what it takes!
+Dialogue: 0,0:14:27.33,0:14:30.37,Default,,0,0,0,,Tatsuya, I'll help, too!
+Dialogue: 0,0:14:30.37,0:14:32.66,Default,,0,0,0,,Great.
+Dialogue: 0,0:14:32.66,0:14:34.99,Default,,0,0,0,,Mikihiko, start the countdown!
+Dialogue: 0,0:14:34.99,0:14:37.08,Default,,0,0,0,,Okay!
+Dialogue: 0,0:14:37.08,0:14:38.12,Default,,0,0,0,,Three!
+Dialogue: 0,0:14:38.12,0:14:39.33,Default,,0,0,0,,Two!
+Dialogue: 0,0:14:39.33,0:14:40.83,Default,,0,0,0,,One!
+Dialogue: 0,0:14:40.83,0:14:42.33,Default,,0,0,0,,Now!
+Dialogue: 0,0:15:10.04,0:15:11.37,Default,,0,0,0,,Miyuki...
+Dialogue: 0,0:15:11.37,0:15:13.33,Default,,0,0,0,,Look.
+Dialogue: 0,0:15:32.12,0:15:33.58,Default,,0,0,0,,This is...
+Dialogue: 0,0:15:33.58,0:15:35.83,Default,,0,0,0,,the world that my brother sees.
+Dialogue: 0,0:15:38.45,0:15:40.99,Default,,0,0,0,,I can see it, Brother.
+Dialogue: 0,0:15:46.58,0:15:47.95,Default,,0,0,0,,There.
+Dialogue: 0,0:15:55.66,0:15:57.66,Default,,0,0,0,,Cocytus.
+Dialogue: 0,0:16:50.49,0:16:52.49,Default,,0,0,0,,Lunar magic?
+Dialogue: 0,0:16:54.33,0:17:00.33,Default,,0,0,0,,Even though I couldn't see the parasite,\NI sensed its destruction.
+Dialogue: 0,0:17:00.33,0:17:04.66,Default,,0,0,0,,Such powerful lunar magic...
+Dialogue: 0,0:17:04.66,0:17:07.54,Default,,0,0,0,,Miyuki, look.
+Dialogue: 0,0:17:07.54,0:17:10.29,Default,,0,0,0,,You and Tatsuya both... What are you?
+Dialogue: 0,0:17:15.41,0:17:16.74,Default,,0,0,0,,Lina...
+Dialogue: 0,0:17:16.74,0:17:19.54,Default,,0,0,0,,Tell nobody what you saw just now.
+Dialogue: 0,0:17:19.54,0:17:21.95,Default,,0,0,0,,Wh-What the hell?
+Dialogue: 0,0:17:21.95,0:17:28.41,Default,,0,0,0,,In exchange, I swear to keep quiet\Nabout your identity as Angie Sirius.
+Dialogue: 0,0:17:28.41,0:17:35.41,Default,,0,0,0,,This applies to not only Miyuki and me,\Nbut to everyone on our end involved in this.
+Dialogue: 0,0:17:37.91,0:17:44.33,Default,,0,0,0,,Fine. If you'll stay quiet,\NI'll keep you and Miyuki a secret, too.
+Dialogue: 0,0:17:44.33,0:17:47.99,Default,,0,0,0,,Nobody would believe me anyway, I bet.
+Dialogue: 0,0:17:47.99,0:17:49.24,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:02.74,0:18:03.95,Default,,0,0,0,,Lina...
+Dialogue: 0,0:18:05.08,0:18:07.24,Default,,0,0,0,,Something else?
+Dialogue: 0,0:18:07.24,0:18:11.37,Default,,0,0,0,,If you ever want to quit being a soldier,
+Dialogue: 0,0:18:11.37,0:18:13.45,Default,,0,0,0,,I think I can help.
+Dialogue: 0,0:18:16.20,0:18:19.74,Default,,0,0,0,,I have acquaintances who can help.
+Dialogue: 0,0:18:19.74,0:18:23.16,Default,,0,0,0,,Wait, Tatsuya!\NWhy would you ask me that?
+Dialogue: 0,0:18:23.16,0:18:27.70,Default,,0,0,0,,I don't want to stop being the Sirius!
+Dialogue: 0,0:18:27.70,0:18:28.95,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:28.95,0:18:32.20,Default,,0,0,0,,Sorry, that was a weird thing to ask.
+Dialogue: 0,0:18:43.83,0:18:48.37,Default,,0,0,0,,Your Excellency Kudou,\NI consider it a great honor to meet you.
+Dialogue: 0,0:18:52.95,0:18:56.66,Default,,0,0,0,,My name is Ayako Kuroba.
+Dialogue: 0,0:18:56.66,0:19:02.91,Default,,0,0,0,,I am a member of the Yotsuba's lowest ranks,\Ncharged with serving our family head, Maya.
+Dialogue: 0,0:19:02.91,0:19:05.58,Default,,0,0,0,,A representative of Lady Yotsuba?
+Dialogue: 0,0:19:05.58,0:19:09.83,Default,,0,0,0,,No wonder you're so levelheaded\Ndespite your age.
+Dialogue: 0,0:19:09.83,0:19:14.41,Default,,0,0,0,,Incidentally, Your Excellency,\Nwe don't have very much time to spare,
+Dialogue: 0,0:19:14.41,0:19:18.33,Default,,0,0,0,,so there is one thing\NI would like to ask you about.
+Dialogue: 0,0:19:18.33,0:19:20.74,Default,,0,0,0,,Go ahead.
+Dialogue: 0,0:19:20.74,0:19:23.20,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:19:23.20,0:19:26.08,Default,,0,0,0,,With all due respect,\NI am given to understand
+Dialogue: 0,0:19:26.08,0:19:31.16,Default,,0,0,0,,that Your Excellency's intent is to bring back\Nthese sealed monsters called "parasites."
+Dialogue: 0,0:19:31.16,0:19:32.99,Default,,0,0,0,,But to tell you the truth,
+Dialogue: 0,0:19:32.99,0:19:37.58,Default,,0,0,0,,the errand I have been sent on by my family\Nhead is to also collect the sealed parasites.
+Dialogue: 0,0:19:37.58,0:19:38.99,Default,,0,0,0,,Is it?
+Dialogue: 0,0:19:40.91,0:19:45.04,Default,,0,0,0,,Fortunately, there are\Ntwo sealed vessels here.
+Dialogue: 0,0:19:45.04,0:19:47.74,Default,,0,0,0,,Shall we each take one...
+Dialogue: 0,0:19:47.74,0:19:49.99,Default,,0,0,0,,Your Excellency?
+Dialogue: 0,0:19:59.37,0:20:01.08,Default,,0,0,0,,Very well.
+Dialogue: 0,0:20:01.08,0:20:05.58,Default,,0,0,0,,We'll take the friendly approach\Nand share the spoils evenly.
+Dialogue: 0,0:20:05.58,0:20:09.20,Default,,0,0,0,,Thank you very much, Your Excellency.
+Dialogue: 0,0:20:09.20,0:20:10.83,Default,,0,0,0,,Thanks to you, Tatsuya,
+Dialogue: 0,0:20:10.83,0:20:14.16,Default,,0,0,0,,I'll be able to finish this mission safely.
+Dialogue: 0,0:20:16.95,0:20:18.62,Default,,0,0,0,,Brother...
+Dialogue: 0,0:20:18.62,0:20:24.95,Default,,0,0,0,,About Lina... Do you think\Nshe'll take what you said to heart?
+Dialogue: 0,0:20:24.95,0:20:28.12,Default,,0,0,0,,I'm sure Lina has\Nher own things to deal with.
+Dialogue: 0,0:20:28.12,0:20:34.41,Default,,0,0,0,,She's certainly not the only one\Nwho can't get herself to the place she wants.
+Dialogue: 0,0:20:34.41,0:20:39.58,Default,,0,0,0,,But you still offered to help her anyway...
+Dialogue: 0,0:20:39.58,0:20:41.16,Default,,0,0,0,,Why?
+Dialogue: 0,0:20:41.16,0:20:42.91,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:20:42.91,0:20:47.87,Default,,0,0,0,,Brother, why do you try to help Lina?
+Dialogue: 0,0:20:47.87,0:20:53.54,Default,,0,0,0,,Do you have special feelings for her?
+Dialogue: 0,0:20:53.54,0:21:00.83,Default,,0,0,0,,I just thought leaving the Stars\Nwould be more convenient for the future.
+Dialogue: 0,0:21:00.83,0:21:03.08,Default,,0,0,0,,Not just leaving the military, either.
+Dialogue: 0,0:21:03.08,0:21:06.62,Default,,0,0,0,,The best option would be to have her\Nbecome a naturalized Japanese citizen here.
+Dialogue: 0,0:21:06.62,0:21:09.74,Default,,0,0,0,,But that doesn't mean\NI don't sympathize with her.
+Dialogue: 0,0:21:09.74,0:21:13.70,Default,,0,0,0,,In a way, we're a lot alike.
+Dialogue: 0,0:21:13.70,0:21:19.08,Default,,0,0,0,,Or maybe I should say we belong\Nto the same category of person.
+Dialogue: 0,0:21:19.08,0:21:26.04,Default,,0,0,0,,Neither one of us had any real choice\Nin where we ended up today.
+Dialogue: 0,0:21:26.04,0:21:30.37,Default,,0,0,0,,You could call me enrolling at First High\Na choice I forced them to let me have,
+Dialogue: 0,0:21:30.37,0:21:36.20,Default,,0,0,0,,but I don't think Lina even had\Na little choice like that.
+Dialogue: 0,0:21:36.20,0:21:42.33,Default,,0,0,0,,I was never given a choice, but one day,\NI'll make one and choose for myself.
+Dialogue: 0,0:21:42.33,0:21:50.29,Default,,0,0,0,,I figured I'd offer help out of friendship\Nif Lina wanted the same thing, but...
+Dialogue: 0,0:21:50.29,0:21:52.99,Default,,0,0,0,,I guess it was none of my business.
+Dialogue: 0,0:22:01.20,0:22:04.45,Default,,0,0,0,,That isn't true.
+Dialogue: 0,0:22:04.45,0:22:08.33,Default,,0,0,0,,I'm sure that one day...
+Dialogue: 0,0:22:11.99,0:22:18.41,Default,,0,0,0,,No, in the near future,\Nyour consideration will reach her heart.
+Dialogue: 0,0:22:18.41,0:22:25.74,Default,,0,0,0,,Because this incident must've made\NLina doubt her current self.
+Dialogue: 0,0:22:25.74,0:22:30.16,Default,,0,0,0,,She may be a little simple,\Nbut she's smart.
+Dialogue: 0,0:22:35.58,0:22:37.66,Default,,0,0,0,,Miyuki...
+Dialogue: 0,0:22:37.66,0:22:40.41,Default,,0,0,0,,"Simple"? That's pretty mean.
+Dialogue: 0,0:23:48.54,0:23:52.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC XI
